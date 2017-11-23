@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
         ?>
+        <h2>CAMBIAMOS COSAS DEL DOCUMENTO</h2>
     </body>
 </html>
