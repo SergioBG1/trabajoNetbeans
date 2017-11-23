@@ -13,5 +13,6 @@ and open the template in the editor.
         <?php
         ?>
         <h2>CAMBIAMOS COSAS DEL DOCUMENTO</h2>
+        <h3>AÑADIMOS H3</h3>
     </body>
 </html>
